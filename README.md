@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SirLucky13
+- 👋 Hi, I’m Byron M Winston 
 - 👀 I’m interested in front in development.
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on ...
